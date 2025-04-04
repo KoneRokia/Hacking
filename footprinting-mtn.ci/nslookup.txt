@@ -1,0 +1,7 @@
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	mtn.ci
+Address: 162.159.135.42
+

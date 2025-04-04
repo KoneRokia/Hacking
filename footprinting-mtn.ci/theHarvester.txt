@@ -1,0 +1,659 @@
+Created default proxies.yaml at /home/kali/.theHarvester/proxies.yaml
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.6.0                                              *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+*******************************************************************
+
+[*] Target: mtn.ci 
+
+Created default api-keys.yaml at /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for bevigil. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for binaryedge. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for bufferoverun. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for Censys ID and/or Secret. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for criminalip. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for fullhunt. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for Github. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for Hunter. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for hunterhow. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for Intelx. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for netlas. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for onyphe. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for PentestTools. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for ProjectDiscovery. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for RocketReach. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for Securitytrail. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for Tomba Key and/or Secret. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for virustotal. [0m
+Read api-keys.yaml from /home/kali/.theHarvester/api-keys.yaml
+
+[93m[!] Missing API key for zoomeye. [0m
+[94m[*] Searching Anubis. 
+	Searching 0 results.
+[94m[*] Searching Bing. 
+An exception has occurred: 400, message='Got more than 13000 bytes (14752) when reading Header value is too long.', url='https://search.brave.com/search?q=%22mtn.ci%22&offset=0&source=web&show_local=0&spellcheck=0'
+[94m[*] Searching Baidu. 
+	Searching results.
+[94m[*] Searching Certspotter. 
+An exception occurred: list index out of range
+[94m[*] Searching Dnsdumpster. 
+[94m[*] Searching Duckduckgo. 
+An exception has occurred: 400, message='Got more than 13000 bytes (14752) when reading Header value is too long.', url='https://search.brave.com/search?q=%22mtn.ci%22&offset=1&source=web&show_local=0&spellcheck=0'
+[94m[*] Searching CRTsh. 
+[94m[*] Searching Hackertarget. 
+[94m[*] Searching Otx. 
+An exception has occurred: 400, message='Got more than 13000 bytes (14752) when reading Header value is too long.', url='https://search.brave.com/search?q=%22mtn.ci%22&offset=2&source=web&show_local=0&spellcheck=0'
+Sitedossier module has triggered a captcha on first iteration, no results can be found.
+Change IPs, manually solve the captcha, or wait before rerunning Sitedossier module
+[94m[*] Searching Sitedossier. 
+[94m[*] Searching Subdomaincenter. 
+[94m[*] Searching Rapiddns. 
+An exception has occurred: 400, message='Got more than 13000 bytes (14752) when reading Header value is too long.', url='https://search.brave.com/search?q=%22mtn.ci%22&offset=3&source=web&show_local=0&spellcheck=0'
+An exception has occurred: 500, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.threatminer.org/v2/domain.php?q=mtn.ci&rt=5'
+[94m[*] Searching Subdomainfinderc99. 
+An exception has occurred: 429, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://urlscan.io/api/v1/search/?q=domain:mtn.ci'
+[94m[*] Searching Yahoo. 
+An exception has occurred: 400, message='Got more than 13000 bytes (14752) when reading Header value is too long.', url='https://search.brave.com/search?q=%22mtn.ci%22&offset=4&source=web&show_local=0&spellcheck=0'
+An exception has occurred: 400, message='Got more than 13000 bytes (14752) when reading Header value is too long.', url='https://search.brave.com/search?q=%22mtn.ci%22&offset=5&source=web&show_local=0&spellcheck=0'
+An exception has occurred: 400, message='Got more than 13000 bytes (14752) when reading Header value is too long.', url='https://search.brave.com/search?q=%22mtn.ci%22&offset=6&source=web&show_local=0&spellcheck=0'
+[94m[*] Searching Brave. 
+
+[*] LinkedIn Links found: 0
+---------------------
+
+[*] IPs found: 52
+-------------------
+104.18.20.174
+104.18.21.174
+104.18.40.69
+105.235.121.171
+105.235.5.12
+105.235.67.100
+13.244.163.189
+13.244.226.203
+13.246.72.196
+13.246.74.131
+141.95.155.207
+162.159.135.42
+164.160.32.24
+172.64.147.187
+18.168.127.246
+18.169.2.97
+18.170.164.94
+18.203.219.201
+196.47.178.103
+196.47.178.138
+196.47.178.183
+196.47.178.187
+196.47.178.66
+196.47.180.77
+196.47.182.9
+196.47.184.10
+196.47.184.44
+196.47.184.80
+196.47.188.131
+196.47.188.134
+196.47.188.200
+196.47.188.21
+204.246.191.101
+204.246.191.109
+204.246.191.12
+204.246.191.13
+204.246.191.25
+204.246.191.3
+204.246.191.61
+204.246.191.63
+35.176.128.66
+51.91.51.158
+54.192.76.103
+54.192.76.15
+54.192.76.7
+54.192.76.84
+54.36.188.78
+54.36.91.62
+54.72.129.210
+54.77.178.126
+95.217.56.125
+95.217.57.125
+
+[*] No emails found.
+
+[*] Hosts found: 489
+---------------------
+*.mtn.ci
+001.mtn.ci
+01.37.collab.mtn.ci
+024.testing.collab.mtn.ci
+04.collab.mtn.ci
+05.testing.collab.mtn.ci
+10.collab.mtn.ci
+10h.collab.mtn.ci
+113.mtn.ci
+123.collab.mtn.ci
+125.collab.mtn.ci
+14.mtn.ci
+143.collab.mtn.ci
+145.mtn.ci
+172.collab.mtn.ci
+174.collab.mtn.ci
+177.collab.mtn.ci
+22.testing.collab.mtn.ci
+249.collab.mtn.ci
+249.staging.collab.mtn.ci
+25.mtn.ci
+255.collab.mtn.ci
+257.collab.mtn.ci
+27v.collab.mtn.ci
+29.mtn.ci
+295.collab.mtn.ci
+306.560.collab.mtn.ci
+31.testing.collab.mtn.ci
+33.mtn.ci
+340.mtn.ci
+341.mtn.ci
+346.collab.mtn.ci
+364.testing.collab.mtn.ci
+38.collab.mtn.ci
+389.collab.mtn.ci
+406.collab.mtn.ci
+42.testing.collab.mtn.ci
+431.collab.mtn.ci
+45.mtn.ci
+4gmap.mtn.ci
+4gmap.mtn.ci:196.47.188.131
+5.mtn.ci
+50.testing.collab.mtn.ci
+508.collab.mtn.ci
+540.collab.mtn.ci
+546.collab.mtn.ci
+564.collab.mtn.ci
+566.collab.mtn.ci
+578.342.collab.mtn.ci
+62.collab.mtn.ci
+629zm.collab.mtn.ci
+631zm.collab.mtn.ci
+637zm-collab.mtn.ci
+643zm.collab.mtn.ci
+664l22.54.637zm.collab.mtn.ci
+683.mtn.ci
+700.collab.mtn.ci
+74h.collab.mtn.ci
+76.collab.mtn.ci
+76v.collab.mtn.ci
+77.751.collab.mtn.ci
+78.staging.collab.mtn.ci
+8.mtn.ci
+80.546.collab.mtn.ci
+85v.collab.mtn.ci
+923.collab.mtn.ci
+924.collab.mtn.ci
+926.collab.mtn.ci
+927.mtn.ci
+932.collab.mtn.ci
+971.collab.mtn.ci
+CI-TC-CSCISEPAN-01.mtn.ci
+CI-TC-CSCISEPSN-01.mtn.ci
+CI-YA-CSCISEPAN-01.mtn.ci
+CI-YA-CSCISEPSN-01.mtn.ci
+Lyncdiscover.mtn.ci
+LyncdiscoverInternal.mtn.ci
+Partner.mobilemoney.mtn.ci
+SVR-LEDGETC-01.mtn.ci
+SVR-LFAVC-01.mtn.ci
+SVR-LFAVC-02.mtn.ci
+accessbillmanager.mtn.ci
+accessbillmanager.mtn.ci:196.47.188.135
+admin.mobilemoney.mtn.ci
+admin.mtn.ci
+admin.mtn.ci:196.47.178.72
+adminannuaire.mtn.ci
+adminannuaire.mtn.ci:196.47.188.131
+afdbportal.mtn.ci
+afdbportal.mtn.ci:196.47.188.131
+affectation.mtn.ci
+affectation.mtn.ci:196.47.184.10
+agility.mtn.ci
+agility.mtn.ci:196.47.184.92
+albuquerque.collab.mtn.ci
+app.businesscard.mtn.ci
+app.businesscard.mtn.ci:141.95.155.207
+app.mtn.ci
+app.mtn.ci:105.235.121.171
+apps.mtn.ci:144.76.136.81
+appstore.mtn.ci
+appstore.mtn.ci:144.76.136.81
+auth-sponsoredata.mtn.ci
+auth-sponsoredata.mtn.ci:105.235.5.12
+auth.mtn.ci
+autodiscover.mtn.ci
+autodiscover.mtn.ci:196.47.178.65
+av.mtn.ci
+av.mtn.ci:196.47.178.95
+axdas.mtn.ci
+axdas.mtn.ci:196.47.184.44
+bandwidthtest.mtn.ci
+billmap.mtn.ci
+billmap.mtn.ci:196.47.188.131
+billmaptest.mtn.ci
+billmaptest.mtn.ci:196.47.188.131
+booster.mtn.ci
+booster.mtn.ci:105.235.5.12
+bss-dcm.mtn.ci
+bss-uat.mtn.ci
+btpra.mtn.ci
+btpws.mtn.ci
+bulk4scb.mtn.ci
+bulk4scb.mtn.ci:196.47.178.240
+bulkpayment.mtn.ci:196.47.188.131
+businesscard.mtn.ci
+businesscard.mtn.ci:141.95.155.207
+businessdocs.mtn.ci:196.47.188.131
+byobapp.mtn.ci
+byobapp.mtn.ci:196.47.188.134
+cartracking.mtn.ci
+cartracking.mtn.ci:196.47.188.131
+cbs.mtn.ci
+cbs.mtn.ci:196.47.184.94
+cbs33.mtn.ci
+cbs33.mtn.ci:196.47.188.134
+cc.mobilemoney.mtn.ci
+cc.mobilemoney.mtn.ci:196.47.188.137
+certda.mtn.ci
+certda.mtn.ci:196.47.188.181
+ci-tc-cscisepan-01.mtn.ci
+ci-tc-cscisepsn-01.mtn.ci
+ci-ya-cscisepan-01.mtn.ci
+ci-ya-cscisepsn-01.mtn.ci
+clfgroup.mtn.ci
+clfgroup.mtn.ci:196.47.188.131
+cloud.mtn.ci
+cloud.mtn.ci:13.94.138.122
+collab.mtn.ci
+collab.mtn.ci:54.36.91.62
+consultationciesodecitest.mtn.ci:196.47.188.135
+cp.mtn.ci
+cp.mtn.ci:196.47.178.72
+crisis.mtn.ci
+crisis.mtn.ci:196.47.188.131
+crisis.mtn.ci:196.47.188.200
+cs.mtn.ci:196.47.178.72
+cust42.collab.mtn.ci
+customercare.mobilemoney.mtn.ci
+demo.mtn.ci
+developertesting.collab.mtn.ci
+dialin.mtn.ci
+dialin.mtn.ci:196.47.178.79
+digitalkyc.mtn.ci
+digitalkyc.mtn.ci:105.235.66.138
+dmc-backoffice.mtn.ci
+dmc-backoffice.mtn.ci:196.47.178.107
+dr.mtn.ci
+ebu-sponsoredata.mtn.ci
+ebu-sponsoredata.mtn.ci:105.235.5.12
+eda-vip-trf.mtn.ci
+edge.mtn.ci
+efacturation.mtn.ci
+efacturation.mtn.ci:196.47.188.135
+engineroom.mtn.ci:196.47.188.131
+epm.mtn.ci
+ersadmin.mtn.ci
+ersapp.mtn.ci
+ersapp.mtn.ci:196.47.188.134
+ersmobileapp.mtn.ci
+ersweb.mtn.ci
+ersweb.mtn.ci:196.47.178.66
+evaluations.mtn.ci:196.47.178.180
+evdapptest.mtn.ci
+evdapptest.mtn.ci:196.47.188.134
+evdsapp.mtn.ci
+evdsapp.mtn.ci:196.47.188.134
+eventstalk.mtn.ci
+eventstalk.mtn.ci:196.47.188.131
+ewp-test.mobilemoney.mtn.ci
+ewp.mobilemoney.mtn.ci
+expresswaye1.mtn.ci
+expresswaye1.mtn.ci:196.47.188.210
+factures.mtn.ci
+fibre.mtn.ci
+ftp.mtn.ci
+ftp.mtn.ci:ns1.mtn.ci
+ftp.mtn.ci:ns1.mtn.ci.
+gameland.mtn.ci
+gistntesting.collab.mtn.ci
+godigital.mtn.ci
+godigital.mtn.ci:52.33.174.51
+graphql.mtn.ci
+graphql.mtn.ci:105.235.121.171
+hopemappingsolution.mtn.ci
+hopemappingsolution.mtn.ci:196.47.188.135
+host.mtn.ci
+identification.mtn.ci
+identification.mtn.ci:196.47.184.51
+idv3.mtn.ci
+idv3.mtn.ci:196.47.184.44
+imap.mtn.ci:webmail.mtn.ci
+imap.mtn.ci:webmail.mtn.ci.
+immobilier.mtn.ci
+ios.mtn.ci
+ios.mtn.ci:196.47.178.9
+livestreaming.mtn.ci
+lonidoor.mtn.ci
+lonidoor.mtn.ci:196.47.188.131
+ltmevaluation.mtn.ci
+lyncdiscover.mtn.ci
+lyncdiscover.mtn.ci:196.47.178.79
+lyncdiscoverinternal.mtn.ci
+lyncpool.mtn.ci
+lyncwebext.mtn.ci
+lyncwebext.mtn.ci:196.47.178.79
+mail.mtn.ci
+mail.mtn.ci:196.47.178.4
+mail1.mtn.ci
+mail1.mtn.ci:196.47.184.21
+mail2.mtn.ci
+mail2.mtn.ci:196.47.178.65
+meet.mtn.ci
+meet.mtn.ci:196.47.178.79
+merchantreg.mtn.ci
+mm.mtn.ci
+mmg.mtn.ci
+mmg.mtn.ci:196.47.178.110
+mobileadvertising.mtn.ci
+mobileadvertising.mtn.ci:196.47.188.134
+mobileapp.mtn.ci
+mobileapp.mtn.ci:196.47.188.134
+mobilemoney.mtn.ci
+mobilemoney.mtn.ci:196.47.188.133
+mobilemoneygn.mtn.ci
+mobiliers.mtn.ci:196.47.188.131
+momo.mtn.ci
+momobusiness.mtn.ci
+momobusiness.mtn.ci:196.47.188.200
+momopartenaire.mtn.ci
+momopartenaire.mtn.ci:196.47.178.12
+momopayment.mtn.ci:196.47.184.200
+moncompte.mtn.ci
+moncompte.mtn.ci:196.47.184.8
+moninternet.mtn.ci
+moninternet.mtn.ci:196.47.178.187
+moninternet1.mtn.ci:196.47.178.177
+monticket.mtn.ci
+monticket.mtn.ci:196.47.188.131
+monticket.mtn.ci:196.47.188.200
+mscloud.mtn.ci
+mtn.ci:mail.mtn.ci
+mtn.ci:mail.mtn.ci.
+mtn.ci:mx1.mtn.ci
+mtn.ci:mx1.mtn.ci.
+mtn1app.mtn.ci
+mtncchicapp.mtn.ci
+mtncchicapp.mtn.ci:196.47.188.131
+mtncchicapptest.mtn.ci:196.47.188.131
+mtner.mtn.ci
+mtner.mtn.ci:196.47.188.134
+mtnevents.mtn.ci:196.47.188.131
+mtnpasswordreset.mtn.ci:196.47.188.134
+mtnplay.mtn.ci
+mtnplay.mtn.ci:196.47.178.138
+mtnplay.mtn.ci:196.47.188.131
+mtnplay.mtn.ci:196.47.188.200
+mtnplaydr.mtn.ci
+mtnsignature.mtn.ci
+mtnsignature.mtn.ci:196.47.188.131
+mtntv.mtn.ci
+mtntvstream.mtn.ci
+mtntvstream.mtn.ci:196.47.180.77
+musicplus.mtn.ci
+musicplus.mtn.ci:193.41.229.100
+mx1.mtn.ci
+mx1.mtn.ci:196.47.177.34
+myinternet.mtn.ci:196.47.178.185
+news.mtn.ci
+news.mtn.ci:105.235.121.171
+nmetricsing.collab.mtn.ci
+nodetesting.collab.mtn.ci
+ns1.mtn.ci
+ns1.mtn.ci:196.47.128.1
+ns2.mtn.ci
+ns2.mtn.ci:105.235.13.1
+nserver.collab.mtn.ci
+ogw.mtn.ci
+openservices.mtn.ci
+orion.mtn.ci
+orion.mtn.ci:196.47.182.24
+owa01.collab.mtn.ci
+partenaires.mobilemoney.mtn.ci
+partenaires.mobilemoney.mtn.ci:196.47.178.5
+partner.mobilemoney.mtn.ci
+partner.mobilemoney.mtn.ci:196.47.178.201
+partner.mtn.ci
+partner.mtn.ci:196.47.188.134
+partner1.mobilemoney.mtn.ci
+partnermobilemoney.mtn.ci
+partnermobilemoney.mtn.ci:196.47.188.131
+partnermobilemoney.mtn.ci:196.47.188.21
+passwordregistration.mtn.ci
+passwordregistration.mtn.ci:196.47.188.134
+passwordreset.mtn.ci
+passwordreset.mtn.ci:196.47.188.134
+pc-testing.collab.mtn.ci
+pcci.identification.mtn.ci
+pcci.identification.mtn.ci:196.47.178.71
+pcquizonline.mtn.ci
+pibceao.mtn.ci
+pibceao.mtn.ci:196.47.178.16
+policesecours.mtn.ci
+policesecours.mtn.ci:196.47.188.134
+pool.mtn.ci
+pool.mtn.ci:196.47.178.79
+premium.mtn.ci
+promo.esport.mtn.ci
+promo.esport.mtn.ci:18.155.192.42
+quotes.collab.mtn.ci
+rancher-uat.mtn.ci
+reclamation.mtn.ci
+reclamation.mtn.ci:196.47.188.131
+reclamationpc.mtn.ci
+reclamationpilote.mtn.ci
+regapp.mms.mtn.ci:196.47.188.134
+regapp.mtn.ci
+regapp.mtn.ci:196.47.178.109
+remedy.mtn.ci
+remedy.mtn.ci:196.47.178.183
+reports-sponsoredata.mtn.ci
+rgsfinder.mtn.ci
+rgsfinder.mtn.ci:196.47.188.200
+scoring.mtn.ci
+securegate.mtn.ci
+securegate.mtn.ci:105.235.5.13
+securegate.mtn.ci:196.47.188.136
+selfaccess.mtn.ci:196.47.178.88
+selfaccess.mtn.ci:196.47.188.134
+selfreg.mtn.ci:196.47.184.44
+servicesplus.mtn.ci
+servicesplus.mtn.ci:196.201.33.100
+sharing.mtn.ci
+sharing.mtn.ci:105.235.121.171
+shortz.mtn.ci
+shortz.mtn.ci:196.47.178.138
+simreg.mtn.ci
+simreg.mtn.ci:196.47.188.131
+sip-01.mtn.ci
+sip-01.mtn.ci:105.235.67.100
+sip-02.mtn.ci
+sip-02.mtn.ci:105.235.67.102
+sip.mtn.ci
+sip.mtn.ci:196.47.178.78
+sm.mtn.ci
+sm.mtn.ci:102.133.203.248
+smartcity.mtn.ci
+smsit.mtn.ci
+smspro.mtn.ci
+smspro.mtn.ci:196.47.178.103
+smtp.mtn.ci:webmail.mtn.ci
+smtp.mtn.ci:webmail.mtn.ci.
+speedtest.mtn.ci
+speedtest.mtn.ci:196.47.182.7
+sponsoredata.mtn.ci
+sponsoredata.mtn.ci:105.235.5.12
+sqldb.mtn.ci
+sqldb.mtn.ci:196.47.178.6
+sso.mtn.ci
+staffmeeting.mtn.ci
+staffmeeting.mtn.ci:196.47.188.131
+staging-standardpro.mtn.ci
+staging-standardpro.mtn.ci:105.235.109.172
+standardpro.mtn.ci
+standardpro.mtn.ci:105.235.109.173
+stats.mtn.ci:196.47.178.68
+supportmigration.mtn.ci
+supportmigration.mtn.ci:196.47.188.131
+svr-btpradr-01.mtn.ci
+svr-btpratc-01.mtn.ci
+svr-cdtc-01.mtn.ci
+svr-cdtc-02.mtn.ci
+svr-cdtc-03.mtn.ci
+svr-cdya-01.mtn.ci
+svr-esso.mtn.ci
+svr-idmdr-01.mtn.ci
+svr-idmtc-01.mtn.ci
+svr-idmtc-02.mtn.ci
+svr-ledgetc-01.mtn.ci
+svr-lfavc-01.mtn.ci
+svr-lfavc-02.mtn.ci
+svr-lfe-01.mtn.ci
+svr-lfe-02.mtn.ci
+svr-oamdr-01.mtn.ci
+svr-oamtc-01.mtn.ci
+svr-oamtc-02.mtn.ci
+svr-oud-esso.mtn.ci
+svr-psndrise-01.mtn.ci
+svr-sdpgwbi-01.mtn.ci
+svr-sdpgwbi-01.mtn.ci:105.235.5.18
+svr-sdpgwbi-02.mtn.ci
+svr-sdpgwbi-02.mtn.ci:105.235.5.19
+svr-sdpgwtc-01.mtn.ci
+svr-sdpgwtc-01.mtn.ci:196.47.188.42
+svr-sdpgwtc-02.mtn.ci
+svr-sdpgwtc-02.mtn.ci:196.47.188.43
+svr-sdpgwya-01.mtn.ci
+svr-sdpgwya-01.mtn.ci:196.47.188.46
+svr-sdpgwya-02.mtn.ci
+svr-sdpgwya-02.mtn.ci:196.47.188.47
+svr-sdpgwyp-01.mtn.ci
+svr-sdpgwyp-01.mtn.ci:196.47.188.48
+svr-sdpgwyp-02.mtn.ci
+svr-sdpgwyp-02.mtn.ci:196.47.188.49
+svr-ssodsdr-01.mtn.ci
+svr-ssodstc-01.mtn.ci
+svr-ssodstc-02.mtn.ci
+svr-webdr-01.mtn.ci
+svr-webtc-01.mtn.ci
+svr-webtc-02.mtn.ci
+svr-wedoapptc-01.mtn.ci
+talk.collab.mtn.ci
+tas.mtn.ci
+tas.mtn.ci:196.47.188.131
+testengineroom.mtn.ci:196.47.188.200
+testing-mtnpasswordreset.collab.mtn.ci
+testing.collab.mtn.ci
+testing.collab.mtn.ci:7cc41d12-6457-4ee6-b721-aa476682542d.fgtw2.amplement.tech
+testingdevs.collab.mtn.ci
+testingscm.collab.mtn.ci
+testredirection.mtn.ci
+testredirection.mtn.ci:196.47.188.131
+thunesmobilemoneygn.mtn.ci
+ticketing.mtn.ci
+ticketing.mtn.ci:196.47.188.131
+top10.mtn.ci
+top10.mtn.ci:196.47.188.131
+tournament.mtn.ci
+tournament.mtn.ci:159.100.19.13
+tracemobile.mtn.ci
+tracemobile.mtn.ci:18.203.219.201
+trombino.mtn.ci
+trombino.mtn.ci:196.47.188.131
+tulsa.collab.mtn.ci
+upc.mtn.ci
+upc.mtn.ci:196.47.184.93
+v3d.mtn.ci
+v3d.mtn.ci:196.47.178.19
+vascloud.mtn.ci
+vascloud.mtn.ci:196.47.184.10
+vascloud.mtn.ci:196.47.184.45
+vascloud.mtn.ci:mx10.vascloud.mtn.ci
+vdi.mtn.ci
+vms-standardpro.mtn.ci
+vms-standardpro.mtn.ci:105.235.109.173
+vms.standardpro.mtn.ci
+vms.standardpro.mtn.ci:105.235.109.173
+vmsstaging-standardpro.mtn.ci
+vmsstaging-standardpro.mtn.ci:105.235.109.172
+wap.mtn.ci
+webconf.mtn.ci
+webconf.mtn.ci:196.47.178.81
+webmail.mtn.ci
+webmail.mtn.ci:196.47.178.65
+wimax.mtn.ci
+wimax.mtn.ci:196.47.184.75
+wspushandpull.mtn.ci
+wspushandpull.mtn.ci:196.47.188.131
+wttx.mtn.ci
+www-feb.testing.collab.mtn.ci
+wwwdr.mtn.ci
+wwwdr.mtn.ci:196.47.188.134
+wwwteam.testing.collab.mtn.ci
+xtratime.mtn.ci
+yellostartup.mtn.ci
+yellotv.mtn.ci
+yellotv.mtn.ci:105.235.121.171
+zik.mtn.ci
+zik.mtn.ci:196.47.188.131

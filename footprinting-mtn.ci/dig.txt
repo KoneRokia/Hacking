@@ -1,0 +1,25 @@
+
+; <<>> DiG 9.20.2-1-Debian <<>> mtn.ci ANY
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19066
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;mtn.ci.				IN	ANY
+
+;; ANSWER SECTION:
+mtn.ci.			3096	IN	A	162.159.135.42
+mtn.ci.			5287	IN	NS	ns2.mtn.ci.
+mtn.ci.			5287	IN	NS	ns1.mtn.ci.
+mtn.ci.			4805	IN	RRSIG	NSEC 8 2 7200 20250426202258 20250327200159 60224 ci. U2tzHVUrWghG6i/5c/JFD0A7eP1u1lX/rRH8wkYLSxAAl4Gpz7EJGnfb ggfU/MnN5+OIJNGGgWt1tSDDAOPWTbRORKHQL/MGgwDDzfpg77Af2mtP 0+yv/NjjT07aiHmJHe1i7ny1xs1/KcJN2CARgyjUUsiTFMh8Z8sRDeJK /Po=
+mtn.ci.			4805	IN	RRSIG	NSEC 13 2 7200 20250426202258 20250327200159 10926 ci. 9IGWq1uXl+/IZIqP9HOv+DhzRG664TJF8s9cfV/FZh7/AgQNEVrp2SUx 2G8Ys9zwNQXLQ+NLToTNSdNZBr45+w==
+mtn.ci.			4805	IN	NSEC	mtnbanking.ci. NS RRSIG NSEC
+
+;; Query time: 468 msec
+;; SERVER: 192.168.1.1#53(192.168.1.1) (TCP)
+;; WHEN: Fri Apr 04 08:19:02 GMT 2025
+;; MSG SIZE  rcvd: 382
+
